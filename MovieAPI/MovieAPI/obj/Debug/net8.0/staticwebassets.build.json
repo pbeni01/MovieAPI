@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "Kdfc1uMoZvbxzvd3eXrf1e09j6bMsOcnNuBp159Rwj8=",
+  "Source": "MovieAPI",
+  "BasePath": "_content/MovieAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieAPI\\wwwroot",
+      "Source": "MovieAPI",
+      "ContentRoot": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\",
+      "BasePath": "_content/MovieAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\index.html",
+      "SourceId": "MovieAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\",
+      "BasePath": "_content/MovieAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uaeyk8473w",
+      "Integrity": "5jBRI+5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\js\\app.js",
+      "SourceId": "MovieAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\",
+      "BasePath": "_content/MovieAPI",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dtnw5p3uik",
+      "Integrity": "kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5jBRI+5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:26:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5jBRI+5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8="
+        }
+      ]
+    },
+    {
+      "Route": "index.uaeyk8473w.html",
+      "AssetFile": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5jBRI+5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:26:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uaeyk8473w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5jBRI+5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.dtnw5p3uik.js",
+      "AssetFile": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:26:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dtnw5p3uik"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "D:\\Szerveroldali\\MovieAPI\\MovieAPI\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:26:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo="
+        }
+      ]
+    }
+  ]
+}

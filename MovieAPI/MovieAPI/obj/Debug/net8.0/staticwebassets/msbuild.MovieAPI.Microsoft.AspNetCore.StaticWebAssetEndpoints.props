@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MovieAPI/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5jBRI\u002B5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3727"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225jBRI\u002B5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 17:26:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MovieAPI/index.uaeyk8473w.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uaeyk8473w"},{"Name":"integrity","Value":"sha256-5jBRI\u002B5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8="},{"Name":"label","Value":"_content/MovieAPI/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3727"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225jBRI\u002B5LRmdEs1uoR1Cyewp6IS876TsDu4jjzZ9WgB8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 17:26:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MovieAPI/js/app.dtnw5p3uik.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dtnw5p3uik"},{"Name":"integrity","Value":"sha256-kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo="},{"Name":"label","Value":"_content/MovieAPI/js/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7849"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 17:26:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MovieAPI/js/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7849"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kRmM/M601bMLl2j1aa4gcvpgpfwfkLZoTtyz0nUFFyo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 17:26:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
